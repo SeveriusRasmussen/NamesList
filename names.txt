@@ -7,7 +7,7 @@ Wayne Hopkins
 Leanne -unknown-
 Lavender Brown
 Seamus Finnigan
-Hermione Granger 
+Hermione Granger
 Neville Longbottom
 Parvati Patil
 Harry Potter
@@ -30,3 +30,5 @@ Millicent Bulstrode
 Theodore Nott
 Daphne Greengrass
 Blais Zabini
+Søren Severius
+Jonas Potter
