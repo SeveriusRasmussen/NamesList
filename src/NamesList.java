@@ -108,7 +108,6 @@ public class NamesList {
 
 
     public static void main(String[] args) throws FileNotFoundException {
-
         NamesList app = new NamesList();
         app.startUserInterface();
     }
